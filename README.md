@@ -5,7 +5,7 @@ What if we could give them the power to choose when do they leave our workspace 
 
 Our project aims to implement a microcontroller based elevator monitoring system that constantly tracks the movement and floor status of a lift in real time and further records and display it on a website.
 
-For further applications, we can use the gathered data to make intelligent recommendations to commuters/residents to leave for lift accordingly. Since, the Lift tracking is happening in real time, authorities can also easily track down when the Lift is not operational and send Technician to repair it as soon as possible
+For further applications, we can use the gathered data to make intelligent recommendations to commuters/residents to leave for lift accordingly. Since, the Lift tracking is happening in real time, mantainence can also easily track down when the Lift is not operational and send Technician to repair it as soon as possible
 
 ## Circuit Diagram:
 
