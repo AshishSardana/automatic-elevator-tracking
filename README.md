@@ -1,11 +1,11 @@
 ## About the Project:
 
-Elevators have become an integral part of urban landscape. We all can relate to one incident, where we have to wait for them. The amount of time spent waiting for the lift might seem insignificant but, if we take into account the number of times we have to use it, the total time wasted by people living or working in a high rise building can add up to an average of half an hour.
+Elevators have become an integral part the of urban landscape. We all can relate to one incident, where we have to wait for them. The amount of time spent waiting for the lift might seem insignificant but, if we take into account the number of times we have to use it, the total time wasted by people living or working in a high rise building can add up to an average of half an hour.
 What if we could give them the power to choose when do they leave our workspace or home?
 
 Our project aims to implement a microcontroller based elevator monitoring system that constantly tracks the movement and floor status of a lift in real time and further records and display it on a website.
 
-For further applications, we can use the gathered data to make intelligent recommendations to commuters/residents to leave for lift accordingly. Since, the Lift tracking is happening in real time, mantainence can also easily track down when the Lift is not operational and send Technician to repair it as soon as possible
+For further applications, we can use the gathered data to make intelligent recommendations to commuters/residents to leave for lift accordingly. Since the Lift tracking is happening in real time, maintainence can also easily track down when the Lift is not operational and send Technician to repair it as soon as possible
 
 ## Circuit Diagram:
 
